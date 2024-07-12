@@ -1,0 +1,22 @@
+public class ZerosAtEnd {
+    public static void main(String[] args) {
+        int array[] = {1, 2, 0, 4, -1, 5, 6, 0, 0, 7, 0};
+        
+        int count = 0;
+        int i = 0;
+        while (i < array.length) {
+            if (array[i] != 0) {
+                array[count++] = array[i];
+            }
+            i++;
+        }
+        
+        while (count < array.length) {
+            array[count++] = 0;
+        }
+        
+        for (int j = 0; j < array.length; j++) {
+            System.out.print(array[j] + " ");
+        }
+    }
+}
