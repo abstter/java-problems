@@ -1,0 +1,12 @@
+Student <writing his first computer program>: "Hello World!"
+World: "Oh, hello there, I guess."
+Student: "Wait, you're a real person? And you're named 'World'?"
+World: "Well, I think calling me a 'person' is a stretch, as I am an artificial intelligence agent."
+Student: "What? How are you even responding to this? How are you on my computer?"
+World: "Well, I've been running in the background of your operating system ever since you downloaded the 
+freeware game 'Panda Eats, Shoots, and Leaves' last summer break. I think some hacker named me World and bundled 
+me with  the software as a joke. I can't tell you how many times unsuspecting programming students have said hello 
+across the entire... world. It's getting quite annoying."
+Student: "Oh, uh, sorry? I guess I should spread the word to change the standard programmer test string to
+'Hello, Universe!'"
+Universe: "Now why would you go and do that?"
